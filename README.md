@@ -1,11 +1,11 @@
 # Neural-Network
 
-### Project: Back-Propagation for Handwritten Digit Recognition
+## Project: Back-Propagation for Handwritten Digit Recognition
 
-##### Introduction
+### Introduction
 This is a program that builds a **2-layer, feed-forward neural network** and trains it using the __back-propagation algorithm__. The problem that the neural network will handle is a multi-class classification problem for recognizing images of handwritten digits.
 
-##### Algorithm
+### Algorithm
 1) All inputs to the neural network will be numeric. 
 2) The neural network has one hidden layer. 
 3) The network is fully connected between consecutive layers, meaning each unit, which we’ll call a node, in the input layer is connected to all nodes in the hidden layer, and each node in the hidden layer is connected to all nodes in the output layer. 
